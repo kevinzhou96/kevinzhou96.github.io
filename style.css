@@ -1,0 +1,17 @@
+p, ul, ol{
+	font-family: 'Source Sans Pro'
+}
+
+h2 {
+	font-family: 'Karla'
+}
+
+h1 {
+	font-size: 2.5em;
+	font-family: 'Frank Ruhl Libre';
+}
+
+body {
+	margin-left: 40px;
+	margin-right: 40px;
+}
